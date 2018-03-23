@@ -1,0 +1,100 @@
+D:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.exe.config
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.exe
+D:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.pdb
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.exe
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+E:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.exe.config
+E:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.exe
+E:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.pdb
+H:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.exe.config
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.exe
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.pdb
+H:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.exe
+H:\C# Programming I\cBurch Final Project - Poker Game\bin\Debug\cBurch Final Project - Poker Game.pdb
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+H:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\C# Programming I\cBurch Final Project - Poker Game\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+H:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe.config
+H:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe
+H:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.pdb
+H:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+H:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+H:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+H:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+H:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+H:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+H:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+H:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.exe
+H:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe.config
+D:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+D:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+D:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+D:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+D:\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+D:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+D:\Poker Game Program 0.8\bin\Debug\cBurch Final Project - Poker Game.exe.config
+D:\Poker Game Program 0.8\obj\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.8\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.8\bin\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.8\bin\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.8\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+D:\Poker Game Program 0.8\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+D:\Poker Game Program 0.8\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+D:\Poker Game Program 0.8\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+D:\Poker Game Program 0.8\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+D:\Poker Game Program 0.8\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+D:\Poker Game Program 0.8\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\Poker Game Program 0.8\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe.config
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.8\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.8\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+D:\Poker Game Program 0.8\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+E:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe.config
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.exe
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.pdb
+E:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe
+E:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.pdb
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+E:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe.config
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csprojResolveAssemblyReference.cache
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmAboutThisProject.resources
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmHandEvalTest.resources
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmMainMenu.resources
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.frmPokerGame.resources
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch_Final_Project___Poker_Game.Properties.Resources.resources
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.GenerateResource.Cache
+D:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.exe
+D:\Poker Game Program 0.9\Poker Game Program\bin\Debug\cBurch Final Project - Poker Game.pdb
+D:\Poker Game Program 0.9\Poker Game Program\bin\Debug\characterDatabase.accdb
+D:\Poker Game Program 0.9\Poker Game Program\obj\Debug\cBurch Final Project - Poker Game.csproj.CoreCompileInputs.cache

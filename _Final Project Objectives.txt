@@ -1,0 +1,38 @@
+At the moment, the game does not evaluate hands or determine a winner (clsEvaluateHand.cs is not quite complete and thus has
+not been implemented). However, it does deal cards to every player and fufill the requirements accordingly:
+
+
+-Menu Control:
+There is a menu strip on frmMainMenu
+
+-Any two of the following:
+1. Comboboxes are used to select players on frmMainMenu.
+2. Color dialogs are used on frmMainMenu to choose the color of the board and the fonts on the board.
+
+-MessageBox:
+MessageBoxes are used under the try-catch blocks in frmMainMenu, under the method titled readStatsFromFile(Character c, string s). 
+Location: (frmMainMenu.cs, Line 94)
+
+-Decision Structure:
+If-if else- else decision structure is used under the Hand class. It is used to determine hand strength. 
+Location: (clsHand.cs, Line 68)
+
+-Repetition Structure
+The dealNextHand() method in the PokerGame.cs class uses a FOR Loop to deal the next hand to the players. 
+Location: (frmPokerGame.cs, Line 95)
+
+-A class with overloaded constructors
+The Character class has overloaded constructors 
+Location: (Character.cs, Line 21)
+
+-An array of objects
+The dealNextHand() method in the PokerGame.cs class uses an array of objects to deal the next hand to the players. 
+Location:(frmPokerGame.cs, Line 95)
+
+
+-Print preview capabilities
+The Print Log button on the frmPokerGame form prints a dialog showing all of the hands played thus far (must press deal cards a few times to see)
+
+
+-A try/catch block
+Try-catch blocks exist in Form1, under the method titled readStatsFromFile(Character c, string s). (frmMainMenu.cs, Line 94)
